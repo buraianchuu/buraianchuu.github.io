@@ -1,4 +1,4 @@
-# Brian Chu
+# Brian's Portfolio
 
 Brian here, I make music
 
