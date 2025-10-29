@@ -1,12 +1,7 @@
 # Brian Chu
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2136241488&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brchu" title="BRChu" target="_blank" style="color: #cccccc; text-decoration: none;">BRChu</a> · <a href="https://soundcloud.com/brchu/disquiet-junto-ahhhhhhhhhhhhh-disquiet0708" title="Disquiet Junto | Ahhhhhhhhhh~ - disquiet0708" target="_blank" style="color: #cccccc; text-decoration: none;">Disquiet Junto | Ahhhhhhhhhh~ - disquiet0708</a></div>
+https://soundcloud.com/brchu/disquiet-junto-ahhhhhhhhhhhhh-disquiet0708?si=515e8c57403449b5a8bc177241cea6e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-Education
-________________________________________
-
-Sep. 2022 – Present	Bachelor of Art
-
-The University of Alberta
-Majors: Music
-Minor: Computer Science
-Study mode: Full-time, on-campus (Canada)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2075182640&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brchu" title="BRChu" target="_blank" style="color: #cccccc; text-decoration: none;">BRChu</a> · <a href="https://soundcloud.com/brchu/disquiet-junto-fire-pipe-disquiet0692" title="Disquiet Junto | Fire Pipe - disquiet0692" target="_blank" style="color: #cccccc; text-decoration: none;">Disquiet Junto | Fire Pipe - disquiet0692</a></div>
+https://soundcloud.com/brchu/disquiet-junto-fire-pipe-disquiet0692?si=76905eb7e939475da863364daf0c2f5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
