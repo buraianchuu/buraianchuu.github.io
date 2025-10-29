@@ -1,4 +1,4 @@
-# Brian's Portfolio
+# Portfolio
 
 Brian here, I make music
 
