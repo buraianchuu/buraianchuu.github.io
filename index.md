@@ -8,4 +8,4 @@ layout: default
 Music Composer | Game Audio | Interactive Media  
 Welcome to my portfolio website!
 
-[Check my projects →](projects.md)
+[Check my projects here](projects.md)
