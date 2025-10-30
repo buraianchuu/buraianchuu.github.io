@@ -1,0 +1,27 @@
+Home / About Me
+
+Audio
+ ├── Personal Projects
+ │    ├── Composition
+ │    ├── Max/MSP Patch
+ │    ├── Experimental
+ │    ├── Electronic
+ │    ├── Field Recording
+ │    └── Sound Design
+ ├── Academic Project
+ │    ├── Composition
+ │    ├── Max/MSP Patch
+ │    ├── Experimental
+ │    └── Electronic
+ ├── Other Major Project A: Game Audio
+ ├── Other Major Project B: Mainstream
+ ├── Other Major Project C: Other Ideas
+ ├── Collaboration Projects
+ ├── Live & Performance
+ └── Cover
+
+Visual
+ ├── Photo
+ └── Video
+
+Blog
