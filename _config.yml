@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
-title: Brian Chu
-description: Here are some of my works
+title: "Brian Chu"
+description: "Music Composer | Game Audio | Interactive Media"
+theme: minima
+show_excerpts: true
+markdown: kramdown
+highlighter: rouge
+
+author:
+  name: "Brian Chu"
+  email: "borongchu@gmail.com"
+  github: "buraianchuu"
+  linkedin: "brian-chu"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
