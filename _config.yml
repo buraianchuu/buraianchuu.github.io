@@ -5,7 +5,11 @@ show_excerpts: true
 markdown: kramdown
 highlighter: rouge
 
-Email: borongchu@gmail.com
+author_name: "Brian Chu"
+author_email: "borongchu@gmail.com"
+author_github: "buraianchuu"
+author_linkedin: "brian-chu"
+
 
 
 plugins:
