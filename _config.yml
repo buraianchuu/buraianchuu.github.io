@@ -5,11 +5,13 @@ show_excerpts: true
 markdown: kramdown
 highlighter: rouge
 
-author:
-  name: "Brian Chu"
-  email: "borongchu@gmail.com"
-  github: "buraianchuu"
-  linkedin: "brian-chu"
+<footer>
+  © {{ site.author.name }}  
+  <a href="mailto:{{ borongchu@gmail.com }}">Email</a> ·
+  <a href="https://github.com/{{ buraianchuu }}">GitHub</a> ·
+  <a href="https://linkedin.com/in/{{ brian-chu-a51701300 }}">LinkedIn</a>
+</footer>
+
 
 plugins:
   - jekyll-feed
