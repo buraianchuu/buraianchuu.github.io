@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 
 <footer>
-  © {{ site.author.name }}  
+  © {{ BRChu }}  
   <a href="mailto:{{ borongchu@gmail.com }}">Email</a> ·
   <a href="https://github.com/{{ buraianchuu }}">GitHub</a> ·
   <a href="https://linkedin.com/in/{{ brian-chu-a51701300 }}">LinkedIn</a>
