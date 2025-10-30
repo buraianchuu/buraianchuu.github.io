@@ -5,13 +5,6 @@ show_excerpts: true
 markdown: kramdown
 highlighter: rouge
 
-author:
-  name: "Brian Chu"
-  email: "borongchu@gmail.com"
-  github: "buraianchuu"
-  linkedin: "brian-chu"
-
-
 
 plugins:
   - jekyll-feed
