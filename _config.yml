@@ -3,7 +3,7 @@
 # ============================================================
 title: "Brian Chu"
 description: "Music Composer | Game Audio | Interactive Media"
-url: "https://yourusername.github.io"
+url: "https://buraianchuu.github.io"
 baseurl: ""  # Leave empty for main user site (username.github.io)
 
 # ============================================================
@@ -11,28 +11,26 @@ baseurl: ""  # Leave empty for main user site (username.github.io)
 # ============================================================
 author:
   name: "Brian Chu"
-  email: "youremail@example.com"
-  github: "yourusername"
-  linkedin: "your-linkedin-username"
+  email: "borongchu@gmail.com"
+  github: "buraianchuu"
+  linkedin: "brian-chu"
   location: "Edmonton, Canada"
   bio: "Composer and sound designer passionate about storytelling through sound and interactivity."
 
 # ============================================================
 #  Theme Settings
 # ============================================================
-theme: minima  # you can also try "jekyll-theme-cayman" or "jekyll-theme-modernist"
-# Optional: remove or replace with your custom theme
+theme: minima  
 
-# Minima theme customization (if you use minima)
 minima:
   skin: dark
   social_links:
     - platform: github
-      user_url: "https://github.com/yourusername"
+      user_url: "https://github.com/buraianchuu"
     - platform: linkedin
-      user_url: "https://linkedin.com/in/your-linkedin-username"
+      user_url: "https://www.linkedin.com/in/brian-chu-a51701300/"
     - platform: youtube
-      user_url: "https://youtube.com/@yourchannel"
+      user_url: "https://www.youtube.com/@BRChu"
 
 # ============================================================
 #  Appearance
@@ -81,13 +79,10 @@ exclude:
 #  SEO and Social
 # ============================================================
 social:
-  twitter: "your_twitter"
-  github: "yourusername"
-  linkedin: "your-linkedin-username"
-  youtube: "yourchannel"
-  email: "youremail@example.com"
+  twitter: 
+  github: 
+  linkedin: 
+  youtube: 
+  email: 
 
-# ============================================================
-#  Google Analytics (optional)
-# ============================================================
-google_analytics: "G-XXXXXXXXXX"
+
